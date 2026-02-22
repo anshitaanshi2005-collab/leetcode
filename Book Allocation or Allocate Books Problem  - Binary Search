@@ -1,0 +1,167 @@
+Problem Name: Allocate Books
+Difficulty: Medium
+Platform: Coding Ninjas / Interview Bit
+
+Problem Description:
+Given an array arr of integers, where arr[i] represents the number of pages in the i-th book. Given k number of students. Allocate books to students such that:
+
+Each student gets at least one book
+
+Books allocated to each student are contiguous (i.e., if a student gets books from index i to j, they must be consecutive in the array)
+
+Allocation should be done in such a way that the maximum number of pages assigned to any student is minimized
+
+All books must be allocated
+
+If it's not possible to allocate books to k students, return -1.
+
+Example 1:
+
+text
+Input: arr = [12, 34, 67, 90], k = 2
+Output: 113
+Explanation: 
+Allocation can be done in following ways:
+[12] and [34, 67, 90] → Max pages = max(12, 191) = 191
+[12, 34] and [67, 90] → Max pages = max(46, 157) = 157
+[12, 34, 67] and [90] → Max pages = max(113, 90) = 113  ← Minimum among all
+Therefore minimum possible maximum pages = 113
+Example 2:
+
+text
+Input: arr = [5, 10, 30, 20, 15], k = 3
+Output: 35
+Explanation: 
+Optimal allocation: [5, 10], [30], [20, 15] → Max pages = max(15, 30, 35) = 35
+Constraints:
+
+1 ≤ N ≤ 10^5
+
+1 ≤ arr[i] ≤ 10^6
+
+1 ≤ k ≤ N
+
+🎯 Problem Link
+Coding Ninjas: Allocate Books
+
+🧠 Intuition
+This is a classic minimization problem where we want to minimize the maximum pages allocated to any student. If we observe carefully:
+
+If we have a large page limit, allocation becomes easy (fewer students needed)
+
+If we have a small page limit, allocation becomes difficult (more students needed)
+
+This monotonic behavior makes it perfect for Binary Search on Answer!
+
+🔍 Binary Search Approach
+Step 1: Define Search Space
+Lowest possible answer = Maximum element in the array (because a single book with max pages must be read by someone)
+
+Highest possible answer = Sum of all elements (when one student reads all books)
+
+Step 2: Binary Search
+Calculate mid = (low + high) / 2
+
+Check if it's possible to allocate books with mid as the maximum page limit
+
+If possible, try for a smaller limit (search in left half)
+
+If not possible, try for a larger limit (search in right half)
+
+Step 3: Validity Check Function
+Greedily allocate books to students
+
+If adding current book to current student exceeds the limit, give it to next student
+
+If number of students exceeds k, allocation is not possible
+
+💻 C++ Code
+cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+class Solution {
+private:
+    // Function to check if allocation is possible with given page limit
+    bool isPossible(vector<int>& arr, int n, int k, int pageLimit) {
+        int students = 1;  // Start with first student
+        int pagesAllocated = 0;
+        
+        for(int i = 0; i < n; i++) {
+            // If a single book has more pages than limit, impossible
+            if(arr[i] > pageLimit) {
+                return false;
+            }
+            
+            // If current student can take this book
+            if(pagesAllocated + arr[i] <= pageLimit) {
+                pagesAllocated += arr[i];
+            }
+            else {
+                // Give to next student
+                students++;
+                pagesAllocated = arr[i];
+                
+                // If we need more students than available
+                if(students > k) {
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
+    
+public:
+    int findPages(vector<int>& arr, int n, int k) {
+        // Edge case: more students than books
+        if(k > n) {
+            return -1;
+        }
+        
+        // Define search space
+        int low = *max_element(arr.begin(), arr.end());  // At least the largest book
+        int high = accumulate(arr.begin(), arr.end(), 0); // At most sum of all books
+        int result = -1;
+        
+        // Binary Search
+        while(low <= high) {
+            int mid = low + (high - low) / 2;
+            
+            if(isPossible(arr, n, k, mid)) {
+                // If possible with 'mid', try for smaller limit
+                result = mid;
+                high = mid - 1;
+            }
+            else {
+                // If not possible, need larger limit
+                low = mid + 1;
+            }
+        }
+        
+        return result;
+    }
+};
+
+int main() {
+    Solution solution;
+    
+    // Test Case 1
+    vector<int> books1 = {12, 34, 67, 90};
+    int students1 = 2;
+    cout << "Test Case 1: " << solution.findPages(books1, books1.size(), students1) << endl;
+    // Expected Output: 113
+    
+    // Test Case 2
+    vector<int> books2 = {5, 10, 30, 20, 15};
+    int students2 = 3;
+    cout << "Test Case 2: " << solution.findPages(books2, books2.size(), students2) << endl;
+    // Expected Output: 35
+    
+    // Test Case 3 - Edge case
+    vector<int> books3 = {10, 20, 30, 40};
+    int students3 = 5;
+    cout << "Test Case 3: " << solution.findPages(books3, books3.size(), students3) << endl;
+    // Expected Output: -1 (More students than books)
+    
+    return 0;
+}
