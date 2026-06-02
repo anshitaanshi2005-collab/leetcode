@@ -53,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0567-permutation-in-string) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
