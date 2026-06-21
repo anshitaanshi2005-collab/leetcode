@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0212-word-search-ii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -165,4 +167,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0212-word-search-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0212-word-search-ii) |
+## Matrix
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
