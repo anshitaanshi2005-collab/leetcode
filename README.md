@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0212-word-search-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
