@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0567-permutation-in-string) |
 ## String
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0002-add-two-numbers) |
+| [0268-missing-number](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -184,5 +189,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
