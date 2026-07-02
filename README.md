@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0198-house-robber) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Recursion
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0371-sum-of-two-integers) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
