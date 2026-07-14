@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0141-linked-list-cycle) |
+| [0392-is-subsequence](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
