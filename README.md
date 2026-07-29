@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0463-island-perimeter) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0621-task-scheduler) |
 ## String
