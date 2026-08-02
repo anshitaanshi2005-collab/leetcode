@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0213-house-robber-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0567-permutation-in-string) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0300-longest-increasing-subsequence) |
