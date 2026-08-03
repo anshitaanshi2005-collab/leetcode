@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0621-task-scheduler) |
+| [0704-binary-search](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
