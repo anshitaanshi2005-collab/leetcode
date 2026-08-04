@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0127-word-ladder) |
@@ -270,10 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0037-sudoku-solver) |
 | [0212-word-search-ii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0212-word-search-ii) |
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0037-sudoku-solver) |
 | [0212-word-search-ii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0463-island-perimeter) |
@@ -303,4 +307,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
