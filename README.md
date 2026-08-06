@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0242-valid-anagram) |
@@ -317,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0037-sudoku-solver) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
