@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0051-n-queens) |
 | [0212-word-search-ii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0212-word-search-ii) |
 ## Matrix
 |  |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
