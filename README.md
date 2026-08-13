@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0392-is-subsequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Hash Table
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
