@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0091-decode-ways) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0091-decode-ways) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0206-reverse-linked-list) |
