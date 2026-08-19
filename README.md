@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0242-valid-anagram) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -379,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
