@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0133-clone-graph](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0207-course-schedule) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0226-invert-binary-tree) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0463-island-perimeter) |
@@ -396,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0146-lru-cache) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
