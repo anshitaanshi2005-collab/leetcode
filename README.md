@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0567-permutation-in-string) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0206-reverse-linked-list) |
+| [0355-design-twitter](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0355-design-twitter) |
 | [0876-middle-of-the-linked-list](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0355-design-twitter](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0355-design-twitter) |
 ## Trie
 |  |
 | ------- |
