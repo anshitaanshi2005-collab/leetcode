@@ -1,29 +1,35 @@
 class Solution {
 public:
-    int m, n;
-    vector<vector<int>> directions = {{1,0},{-1,0},{0,1},{0,-1}};
 
-    void dfs(int r, int c, vector<vector<int>>& heights,
-             vector<vector<bool>>& visited) {
+    int m, n;
+
+    void dfs(vector<vector<int>>& heights,
+             vector<vector<bool>>& visited,
+             int r, int c) {
 
         visited[r][c] = true;
 
-        for (auto &dir : directions) {
+        int dr[4] = {1, -1, 0, 0};
+        int dc[4] = {0, 0, 1, -1};
 
-            int nr = r + dir[0];
-            int nc = c + dir[1];
+        for (int i = 0; i < 4; i++) {
 
-            if (nr < 0 || nc < 0 || nr >= m || nc >= n)
+            int nr = r + dr[i];
+            int nc = c + dc[i];
+
+            if (nr < 0 || nr >= m || nc < 0 || nc >= n) {
                 continue;
+            }
 
-            if (visited[nr][nc])
+            if (visited[nr][nc]) {
                 continue;
+            }
 
-            // Reverse flow
-            if (heights[nr][nc] < heights[r][c])
-                continue;
-
-            dfs(nr, nc, heights, visited);
+            // Reverse direction:
+            // move from lower/equal height to higher/equal height
+            if (heights[nr][nc] >= heights[r][c]) {
+                dfs(heights, visited, nr, nc);
+            }
         }
     }
 
@@ -35,29 +41,36 @@ public:
         vector<vector<bool>> pacific(m, vector<bool>(n, false));
         vector<vector<bool>> atlantic(m, vector<bool>(n, false));
 
-        // Pacific
-        for (int i = 0; i < m; i++)
-            dfs(i, 0, heights, pacific);
+        // Pacific: top row and left column
+        for (int i = 0; i < m; i++) {
+            dfs(heights, pacific, i, 0);
+        }
 
-        for (int j = 0; j < n; j++)
-            dfs(0, j, heights, pacific);
+        for (int j = 0; j < n; j++) {
+            dfs(heights, pacific, 0, j);
+        }
 
-        // Atlantic
-        for (int i = 0; i < m; i++)
-            dfs(i, n - 1, heights, atlantic);
+        // Atlantic: bottom row and right column
+        for (int i = 0; i < m; i++) {
+            dfs(heights, atlantic, i, n - 1);
+        }
 
-        for (int j = 0; j < n; j++)
-            dfs(m - 1, j, heights, atlantic);
+        for (int j = 0; j < n; j++) {
+            dfs(heights, atlantic, m - 1, j);
+        }
 
-        vector<vector<int>> ans;
+        vector<vector<int>> result;
 
+        // Cell must be reachable from both oceans
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-                if (pacific[i][j] && atlantic[i][j])
-                    ans.push_back({i, j});
+
+                if (pacific[i][j] && atlantic[i][j]) {
+                    result.push_back({i, j});
+                }
             }
         }
 
-        return ans;
+        return result;
     }
 };
