@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0053-maximum-subarray) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0072-edit-distance) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -430,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
