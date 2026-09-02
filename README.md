@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0268-missing-number) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0220-contains-duplicate-iii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0567-permutation-in-string) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Treap
 |  |
