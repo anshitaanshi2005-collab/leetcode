@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0392-is-subsequence) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0355-design-twitter) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0220-contains-duplicate-iii) |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Ordered Set
 |  |
