@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0135-candy) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0062-unique-paths) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0091-decode-ways) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0206-reverse-linked-list) |
 ## Sorting
