@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0045-jump-game-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0072-edit-distance) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0051-n-queens) |
 | [0212-word-search-ii](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0212-word-search-ii) |
@@ -481,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/anshitaanshi2005-collab/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
